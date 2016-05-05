@@ -17,3 +17,5 @@ function afterReadingDir(error, list){
 		}
 	} 
 }
+
+module.exports=helloNurse
