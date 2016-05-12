@@ -1,0 +1,2030 @@
+
+Your submission results compared to the expected:
+
+────────────────────────────────────────────────────────────────────────────────
+
+1.  ACTUAL:    "{ [Function: BufferList]"
+1.  EXPECTED:  "407"
+
+2.  ACTUAL:    "  super_: "
+2.  EXPECTED:  "Lets throw a longneck heaps lets get some cactus mate. Shazza got us some fisho how grab us a rip snorter. Come a road train with as busy as a sleepout. You little ripper cranky how shazza got us some boardies. As busy as a rapt to flat out like a bail out."
+
+3.  ACTUAL:    "   { [Function: Duplex]"
+3.  EXPECTED:  "Mad as a show pony how as busy as a paddock. As dry as a booze how as cunning as a dinky-di. He's got a massive franger to trent from punchy rotten. "
+
+4.  ACTUAL:    "     super_: "
+4.  EXPECTED:  ""
+
+5.  ACTUAL:    "        ReadableState: [Function: ReadableState],"
+5.  EXPECTED:  
+
+6.  ACTUAL:    "        super_: [Object],"
+6.  EXPECTED:  
+
+7.  ACTUAL:    "        _fromList: [Function: fromList] } } }"
+7.  EXPECTED:  
+
+8.  ACTUAL:    "{ [Function: BufferList]"
+8.  EXPECTED:  
+
+9.  ACTUAL:    "  super_: "
+9.  EXPECTED:  
+
+10. ACTUAL:    "   { [Function: Duplex]"
+10. EXPECTED:  
+
+11. ACTUAL:    "     super_: "
+11. EXPECTED:  
+
+12. ACTUAL:    "      { [Function: Readable]"
+12. EXPECTED:  
+
+13. ACTUAL:    "        ReadableState: [Function: ReadableState],"
+13. EXPECTED:  
+
+14. ACTUAL:    "        super_: [Object],"
+14. EXPECTED:  
+
+15. ACTUAL:    "        _fromList: [Function: fromList] } } }"
+15. EXPECTED:  
+
+16. ACTUAL:    "{ [Function: BufferList]"
+16. EXPECTED:  
+
+17. ACTUAL:    "{ [Function: BufferList]"
+17. EXPECTED:  
+
+18. ACTUAL:    "{ [Function: BufferList]"
+18. EXPECTED:  
+
+19. ACTUAL:    "{ [Function: BufferList]"
+19. EXPECTED:  
+
+20. ACTUAL:    "{ [Function: BufferList]"
+20. EXPECTED:  
+
+21. ACTUAL:    "{ [Function: BufferList]"
+21. EXPECTED:  
+
+22. ACTUAL:    "{ [Function: BufferList]"
+22. EXPECTED:  
+
+23. ACTUAL:    "{ [Function: BufferList]"
+23. EXPECTED:  
+
+24. ACTUAL:    "{ [Function: BufferList]"
+24. EXPECTED:  
+
+25. ACTUAL:    "{ [Function: BufferList]"
+25. EXPECTED:  
+
+26. ACTUAL:    "{ [Function: BufferList]"
+26. EXPECTED:  
+
+27. ACTUAL:    "{ [Function: BufferList]"
+27. EXPECTED:  
+
+28. ACTUAL:    "{ [Function: BufferList]"
+28. EXPECTED:  
+
+29. ACTUAL:    "{ [Function: BufferList]"
+29. EXPECTED:  
+
+30. ACTUAL:    "{ [Function: BufferList]"
+30. EXPECTED:  
+
+31. ACTUAL:    "{ [Function: BufferList]"
+31. EXPECTED:  
+
+32. ACTUAL:    "{ [Function: BufferList]"
+32. EXPECTED:  
+
+33. ACTUAL:    "{ [Function: BufferList]"
+33. EXPECTED:  
+
+34. ACTUAL:    "{ [Function: BufferList]"
+34. EXPECTED:  
+
+35. ACTUAL:    "{ [Function: BufferList]"
+35. EXPECTED:  
+
+36. ACTUAL:    "{ [Function: BufferList]"
+36. EXPECTED:  
+
+37. ACTUAL:    "{ [Function: BufferList]"
+37. EXPECTED:  
+
+38. ACTUAL:    "{ [Function: BufferList]"
+38. EXPECTED:  
+
+39. ACTUAL:    "{ [Function: BufferList]"
+39. EXPECTED:  
+
+40. ACTUAL:    "{ [Function: BufferList]"
+40. EXPECTED:  
+
+41. ACTUAL:    "{ [Function: BufferList]"
+41. EXPECTED:  
+
+42. ACTUAL:    "{ [Function: BufferList]"
+42. EXPECTED:  
+
+43. ACTUAL:    "{ [Function: BufferList]"
+43. EXPECTED:  
+
+44. ACTUAL:    "{ [Function: BufferList]"
+44. EXPECTED:  
+
+45. ACTUAL:    "{ [Function: BufferList]"
+45. EXPECTED:  
+
+46. ACTUAL:    "{ [Function: BufferList]"
+46. EXPECTED:  
+
+47. ACTUAL:    "{ [Function: BufferList]"
+47. EXPECTED:  
+
+48. ACTUAL:    "{ [Function: BufferList]"
+48. EXPECTED:  
+
+49. ACTUAL:    "{ [Function: BufferList]"
+49. EXPECTED:  
+
+50. ACTUAL:    "{ [Function: BufferList]"
+50. EXPECTED:  
+
+51. ACTUAL:    "{ [Function: BufferList]"
+51. EXPECTED:  
+
+52. ACTUAL:    "{ [Function: BufferList]"
+52. EXPECTED:  
+
+53. ACTUAL:    "{ [Function: BufferList]"
+53. EXPECTED:  
+
+54. ACTUAL:    "{ [Function: BufferList]"
+54. EXPECTED:  
+
+55. ACTUAL:    "{ [Function: BufferList]"
+55. EXPECTED:  
+
+56. ACTUAL:    "{ [Function: BufferList]"
+56. EXPECTED:  
+
+57. ACTUAL:    "{ [Function: BufferList]"
+57. EXPECTED:  
+
+58. ACTUAL:    "{ [Function: BufferList]"
+58. EXPECTED:  
+
+59. ACTUAL:    "{ [Function: BufferList]"
+59. EXPECTED:  
+
+60. ACTUAL:    "{ [Function: BufferList]"
+60. EXPECTED:  
+
+61. ACTUAL:    "{ [Function: BufferList]"
+61. EXPECTED:  
+
+62. ACTUAL:    "{ [Function: BufferList]"
+62. EXPECTED:  
+
+63. ACTUAL:    "{ [Function: BufferList]"
+63. EXPECTED:  
+
+64. ACTUAL:    "{ [Function: BufferList]"
+64. EXPECTED:  
+
+65. ACTUAL:    "{ [Function: BufferList]"
+65. EXPECTED:  
+
+66. ACTUAL:    "{ [Function: BufferList]"
+66. EXPECTED:  
+
+67. ACTUAL:    "{ [Function: BufferList]"
+67. EXPECTED:  
+
+68. ACTUAL:    "{ [Function: BufferList]"
+68. EXPECTED:  
+
+69. ACTUAL:    "{ [Function: BufferList]"
+69. EXPECTED:  
+
+70. ACTUAL:    "{ [Function: BufferList]"
+70. EXPECTED:  
+
+71. ACTUAL:    "{ [Function: BufferList]"
+71. EXPECTED:  
+
+72. ACTUAL:    "{ [Function: BufferList]"
+72. EXPECTED:  
+
+73. ACTUAL:    "{ [Function: BufferList]"
+73. EXPECTED:  
+
+74. ACTUAL:    "{ [Function: BufferList]"
+74. EXPECTED:  
+
+75. ACTUAL:    "{ [Function: BufferList]"
+75. EXPECTED:  
+
+76. ACTUAL:    "{ [Function: BufferList]"
+76. EXPECTED:  
+
+77. ACTUAL:    "{ [Function: BufferList]"
+77. EXPECTED:  
+
+78. ACTUAL:    "{ [Function: BufferList]"
+78. EXPECTED:  
+
+79. ACTUAL:    "{ [Function: BufferList]"
+79. EXPECTED:  
+
+80. ACTUAL:    "{ [Function: BufferList]"
+80. EXPECTED:  
+
+81. ACTUAL:    "{ [Function: BufferList]"
+81. EXPECTED:  
+
+82. ACTUAL:    "{ [Function: BufferList]"
+82. EXPECTED:  
+
+83. ACTUAL:    "{ [Function: BufferList]"
+83. EXPECTED:  
+
+84. ACTUAL:    "{ [Function: BufferList]"
+84. EXPECTED:  
+
+85. ACTUAL:    "{ [Function: BufferList]"
+85. EXPECTED:  
+
+86. ACTUAL:    "{ [Function: BufferList]"
+86. EXPECTED:  
+
+87. ACTUAL:    "{ [Function: BufferList]"
+87. EXPECTED:  
+
+88. ACTUAL:    "  super_: "
+88. EXPECTED:  
+
+89. ACTUAL:    "   { [Function: Duplex]"
+89. EXPECTED:  
+
+90. ACTUAL:    "     super_: "
+90. EXPECTED:  
+
+91. ACTUAL:    "      { [Function: Readable]"
+91. EXPECTED:  
+
+92. ACTUAL:    "        ReadableState: [Function: ReadableState],"
+92. EXPECTED:  
+
+93. ACTUAL:    "        super_: [Object],"
+93. EXPECTED:  
+
+94. ACTUAL:    "        _fromList: [Function: fromList] } } }"
+94. EXPECTED:  
+
+95. ACTUAL:    "  super_: "
+95. EXPECTED:  
+
+96. ACTUAL:    "   { [Function: Duplex]"
+96. EXPECTED:  
+
+97. ACTUAL:    "     super_: "
+97. EXPECTED:  
+
+98. ACTUAL:    "      { [Function: Readable]"
+98. EXPECTED:  
+
+99. ACTUAL:    "        ReadableState: [Function: ReadableState],"
+99. EXPECTED:  
+
+100.ACTUAL:    "        super_: [Object],"
+100.EXPECTED:  
+
+101.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+101.EXPECTED:  
+
+102.ACTUAL:    "  super_: "
+102.EXPECTED:  
+
+103.ACTUAL:    "   { [Function: Duplex]"
+103.EXPECTED:  
+
+104.ACTUAL:    "     super_: "
+104.EXPECTED:  
+
+105.ACTUAL:    "      { [Function: Readable]"
+105.EXPECTED:  
+
+106.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+106.EXPECTED:  
+
+107.ACTUAL:    "        super_: [Object],"
+107.EXPECTED:  
+
+108.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+108.EXPECTED:  
+
+109.ACTUAL:    "  super_: "
+109.EXPECTED:  
+
+110.ACTUAL:    "   { [Function: Duplex]"
+110.EXPECTED:  
+
+111.ACTUAL:    "     super_: "
+111.EXPECTED:  
+
+112.ACTUAL:    "      { [Function: Readable]"
+112.EXPECTED:  
+
+113.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+113.EXPECTED:  
+
+114.ACTUAL:    "        super_: [Object],"
+114.EXPECTED:  
+
+115.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+115.EXPECTED:  
+
+116.ACTUAL:    "  super_: "
+116.EXPECTED:  
+
+117.ACTUAL:    "   { [Function: Duplex]"
+117.EXPECTED:  
+
+118.ACTUAL:    "     super_: "
+118.EXPECTED:  
+
+119.ACTUAL:    "      { [Function: Readable]"
+119.EXPECTED:  
+
+120.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+120.EXPECTED:  
+
+121.ACTUAL:    "        super_: [Object],"
+121.EXPECTED:  
+
+122.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+122.EXPECTED:  
+
+123.ACTUAL:    "  super_: "
+123.EXPECTED:  
+
+124.ACTUAL:    "   { [Function: Duplex]"
+124.EXPECTED:  
+
+125.ACTUAL:    "     super_: "
+125.EXPECTED:  
+
+126.ACTUAL:    "      { [Function: Readable]"
+126.EXPECTED:  
+
+127.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+127.EXPECTED:  
+
+128.ACTUAL:    "        super_: [Object],"
+128.EXPECTED:  
+
+129.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+129.EXPECTED:  
+
+130.ACTUAL:    "  super_: "
+130.EXPECTED:  
+
+131.ACTUAL:    "   { [Function: Duplex]"
+131.EXPECTED:  
+
+132.ACTUAL:    "     super_: "
+132.EXPECTED:  
+
+133.ACTUAL:    "      { [Function: Readable]"
+133.EXPECTED:  
+
+134.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+134.EXPECTED:  
+
+135.ACTUAL:    "        super_: [Object],"
+135.EXPECTED:  
+
+136.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+136.EXPECTED:  
+
+137.ACTUAL:    "  super_: "
+137.EXPECTED:  
+
+138.ACTUAL:    "   { [Function: Duplex]"
+138.EXPECTED:  
+
+139.ACTUAL:    "     super_: "
+139.EXPECTED:  
+
+140.ACTUAL:    "      { [Function: Readable]"
+140.EXPECTED:  
+
+141.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+141.EXPECTED:  
+
+142.ACTUAL:    "        super_: [Object],"
+142.EXPECTED:  
+
+143.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+143.EXPECTED:  
+
+144.ACTUAL:    "  super_: "
+144.EXPECTED:  
+
+145.ACTUAL:    "   { [Function: Duplex]"
+145.EXPECTED:  
+
+146.ACTUAL:    "     super_: "
+146.EXPECTED:  
+
+147.ACTUAL:    "      { [Function: Readable]"
+147.EXPECTED:  
+
+148.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+148.EXPECTED:  
+
+149.ACTUAL:    "        super_: [Object],"
+149.EXPECTED:  
+
+150.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+150.EXPECTED:  
+
+151.ACTUAL:    "  super_: "
+151.EXPECTED:  
+
+152.ACTUAL:    "   { [Function: Duplex]"
+152.EXPECTED:  
+
+153.ACTUAL:    "     super_: "
+153.EXPECTED:  
+
+154.ACTUAL:    "      { [Function: Readable]"
+154.EXPECTED:  
+
+155.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+155.EXPECTED:  
+
+156.ACTUAL:    "        super_: [Object],"
+156.EXPECTED:  
+
+157.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+157.EXPECTED:  
+
+158.ACTUAL:    "  super_: "
+158.EXPECTED:  
+
+159.ACTUAL:    "   { [Function: Duplex]"
+159.EXPECTED:  
+
+160.ACTUAL:    "     super_: "
+160.EXPECTED:  
+
+161.ACTUAL:    "      { [Function: Readable]"
+161.EXPECTED:  
+
+162.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+162.EXPECTED:  
+
+163.ACTUAL:    "        super_: [Object],"
+163.EXPECTED:  
+
+164.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+164.EXPECTED:  
+
+165.ACTUAL:    "  super_: "
+165.EXPECTED:  
+
+166.ACTUAL:    "   { [Function: Duplex]"
+166.EXPECTED:  
+
+167.ACTUAL:    "     super_: "
+167.EXPECTED:  
+
+168.ACTUAL:    "      { [Function: Readable]"
+168.EXPECTED:  
+
+169.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+169.EXPECTED:  
+
+170.ACTUAL:    "        super_: [Object],"
+170.EXPECTED:  
+
+171.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+171.EXPECTED:  
+
+172.ACTUAL:    "  super_: "
+172.EXPECTED:  
+
+173.ACTUAL:    "   { [Function: Duplex]"
+173.EXPECTED:  
+
+174.ACTUAL:    "     super_: "
+174.EXPECTED:  
+
+175.ACTUAL:    "      { [Function: Readable]"
+175.EXPECTED:  
+
+176.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+176.EXPECTED:  
+
+177.ACTUAL:    "        super_: [Object],"
+177.EXPECTED:  
+
+178.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+178.EXPECTED:  
+
+179.ACTUAL:    "  super_: "
+179.EXPECTED:  
+
+180.ACTUAL:    "   { [Function: Duplex]"
+180.EXPECTED:  
+
+181.ACTUAL:    "     super_: "
+181.EXPECTED:  
+
+182.ACTUAL:    "      { [Function: Readable]"
+182.EXPECTED:  
+
+183.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+183.EXPECTED:  
+
+184.ACTUAL:    "        super_: [Object],"
+184.EXPECTED:  
+
+185.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+185.EXPECTED:  
+
+186.ACTUAL:    "  super_: "
+186.EXPECTED:  
+
+187.ACTUAL:    "   { [Function: Duplex]"
+187.EXPECTED:  
+
+188.ACTUAL:    "     super_: "
+188.EXPECTED:  
+
+189.ACTUAL:    "      { [Function: Readable]"
+189.EXPECTED:  
+
+190.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+190.EXPECTED:  
+
+191.ACTUAL:    "        super_: [Object],"
+191.EXPECTED:  
+
+192.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+192.EXPECTED:  
+
+193.ACTUAL:    "  super_: "
+193.EXPECTED:  
+
+194.ACTUAL:    "   { [Function: Duplex]"
+194.EXPECTED:  
+
+195.ACTUAL:    "     super_: "
+195.EXPECTED:  
+
+196.ACTUAL:    "      { [Function: Readable]"
+196.EXPECTED:  
+
+197.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+197.EXPECTED:  
+
+198.ACTUAL:    "        super_: [Object],"
+198.EXPECTED:  
+
+199.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+199.EXPECTED:  
+
+200.ACTUAL:    "  super_: "
+200.EXPECTED:  
+
+201.ACTUAL:    "   { [Function: Duplex]"
+201.EXPECTED:  
+
+202.ACTUAL:    "     super_: "
+202.EXPECTED:  
+
+203.ACTUAL:    "      { [Function: Readable]"
+203.EXPECTED:  
+
+204.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+204.EXPECTED:  
+
+205.ACTUAL:    "        super_: [Object],"
+205.EXPECTED:  
+
+206.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+206.EXPECTED:  
+
+207.ACTUAL:    "  super_: "
+207.EXPECTED:  
+
+208.ACTUAL:    "   { [Function: Duplex]"
+208.EXPECTED:  
+
+209.ACTUAL:    "     super_: "
+209.EXPECTED:  
+
+210.ACTUAL:    "      { [Function: Readable]"
+210.EXPECTED:  
+
+211.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+211.EXPECTED:  
+
+212.ACTUAL:    "        super_: [Object],"
+212.EXPECTED:  
+
+213.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+213.EXPECTED:  
+
+214.ACTUAL:    "  super_: "
+214.EXPECTED:  
+
+215.ACTUAL:    "   { [Function: Duplex]"
+215.EXPECTED:  
+
+216.ACTUAL:    "     super_: "
+216.EXPECTED:  
+
+217.ACTUAL:    "      { [Function: Readable]"
+217.EXPECTED:  
+
+218.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+218.EXPECTED:  
+
+219.ACTUAL:    "        super_: [Object],"
+219.EXPECTED:  
+
+220.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+220.EXPECTED:  
+
+221.ACTUAL:    "  super_: "
+221.EXPECTED:  
+
+222.ACTUAL:    "   { [Function: Duplex]"
+222.EXPECTED:  
+
+223.ACTUAL:    "     super_: "
+223.EXPECTED:  
+
+224.ACTUAL:    "      { [Function: Readable]"
+224.EXPECTED:  
+
+225.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+225.EXPECTED:  
+
+226.ACTUAL:    "        super_: [Object],"
+226.EXPECTED:  
+
+227.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+227.EXPECTED:  
+
+228.ACTUAL:    "  super_: "
+228.EXPECTED:  
+
+229.ACTUAL:    "   { [Function: Duplex]"
+229.EXPECTED:  
+
+230.ACTUAL:    "     super_: "
+230.EXPECTED:  
+
+231.ACTUAL:    "      { [Function: Readable]"
+231.EXPECTED:  
+
+232.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+232.EXPECTED:  
+
+233.ACTUAL:    "        super_: [Object],"
+233.EXPECTED:  
+
+234.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+234.EXPECTED:  
+
+235.ACTUAL:    "  super_: "
+235.EXPECTED:  
+
+236.ACTUAL:    "   { [Function: Duplex]"
+236.EXPECTED:  
+
+237.ACTUAL:    "     super_: "
+237.EXPECTED:  
+
+238.ACTUAL:    "      { [Function: Readable]"
+238.EXPECTED:  
+
+239.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+239.EXPECTED:  
+
+240.ACTUAL:    "        super_: [Object],"
+240.EXPECTED:  
+
+241.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+241.EXPECTED:  
+
+242.ACTUAL:    "  super_: "
+242.EXPECTED:  
+
+243.ACTUAL:    "   { [Function: Duplex]"
+243.EXPECTED:  
+
+244.ACTUAL:    "     super_: "
+244.EXPECTED:  
+
+245.ACTUAL:    "      { [Function: Readable]"
+245.EXPECTED:  
+
+246.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+246.EXPECTED:  
+
+247.ACTUAL:    "        super_: [Object],"
+247.EXPECTED:  
+
+248.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+248.EXPECTED:  
+
+249.ACTUAL:    "  super_: "
+249.EXPECTED:  
+
+250.ACTUAL:    "   { [Function: Duplex]"
+250.EXPECTED:  
+
+251.ACTUAL:    "     super_: "
+251.EXPECTED:  
+
+252.ACTUAL:    "      { [Function: Readable]"
+252.EXPECTED:  
+
+253.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+253.EXPECTED:  
+
+254.ACTUAL:    "        super_: [Object],"
+254.EXPECTED:  
+
+255.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+255.EXPECTED:  
+
+256.ACTUAL:    "  super_: "
+256.EXPECTED:  
+
+257.ACTUAL:    "   { [Function: Duplex]"
+257.EXPECTED:  
+
+258.ACTUAL:    "     super_: "
+258.EXPECTED:  
+
+259.ACTUAL:    "      { [Function: Readable]"
+259.EXPECTED:  
+
+260.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+260.EXPECTED:  
+
+261.ACTUAL:    "        super_: [Object],"
+261.EXPECTED:  
+
+262.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+262.EXPECTED:  
+
+263.ACTUAL:    "  super_: "
+263.EXPECTED:  
+
+264.ACTUAL:    "   { [Function: Duplex]"
+264.EXPECTED:  
+
+265.ACTUAL:    "     super_: "
+265.EXPECTED:  
+
+266.ACTUAL:    "      { [Function: Readable]"
+266.EXPECTED:  
+
+267.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+267.EXPECTED:  
+
+268.ACTUAL:    "        super_: [Object],"
+268.EXPECTED:  
+
+269.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+269.EXPECTED:  
+
+270.ACTUAL:    "  super_: "
+270.EXPECTED:  
+
+271.ACTUAL:    "   { [Function: Duplex]"
+271.EXPECTED:  
+
+272.ACTUAL:    "     super_: "
+272.EXPECTED:  
+
+273.ACTUAL:    "      { [Function: Readable]"
+273.EXPECTED:  
+
+274.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+274.EXPECTED:  
+
+275.ACTUAL:    "        super_: [Object],"
+275.EXPECTED:  
+
+276.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+276.EXPECTED:  
+
+277.ACTUAL:    "  super_: "
+277.EXPECTED:  
+
+278.ACTUAL:    "   { [Function: Duplex]"
+278.EXPECTED:  
+
+279.ACTUAL:    "     super_: "
+279.EXPECTED:  
+
+280.ACTUAL:    "      { [Function: Readable]"
+280.EXPECTED:  
+
+281.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+281.EXPECTED:  
+
+282.ACTUAL:    "        super_: [Object],"
+282.EXPECTED:  
+
+283.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+283.EXPECTED:  
+
+284.ACTUAL:    "  super_: "
+284.EXPECTED:  
+
+285.ACTUAL:    "   { [Function: Duplex]"
+285.EXPECTED:  
+
+286.ACTUAL:    "     super_: "
+286.EXPECTED:  
+
+287.ACTUAL:    "      { [Function: Readable]"
+287.EXPECTED:  
+
+288.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+288.EXPECTED:  
+
+289.ACTUAL:    "        super_: [Object],"
+289.EXPECTED:  
+
+290.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+290.EXPECTED:  
+
+291.ACTUAL:    "  super_: "
+291.EXPECTED:  
+
+292.ACTUAL:    "   { [Function: Duplex]"
+292.EXPECTED:  
+
+293.ACTUAL:    "     super_: "
+293.EXPECTED:  
+
+294.ACTUAL:    "      { [Function: Readable]"
+294.EXPECTED:  
+
+295.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+295.EXPECTED:  
+
+296.ACTUAL:    "        super_: [Object],"
+296.EXPECTED:  
+
+297.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+297.EXPECTED:  
+
+298.ACTUAL:    "  super_: "
+298.EXPECTED:  
+
+299.ACTUAL:    "   { [Function: Duplex]"
+299.EXPECTED:  
+
+300.ACTUAL:    "     super_: "
+300.EXPECTED:  
+
+301.ACTUAL:    "      { [Function: Readable]"
+301.EXPECTED:  
+
+302.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+302.EXPECTED:  
+
+303.ACTUAL:    "        super_: [Object],"
+303.EXPECTED:  
+
+304.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+304.EXPECTED:  
+
+305.ACTUAL:    "  super_: "
+305.EXPECTED:  
+
+306.ACTUAL:    "   { [Function: Duplex]"
+306.EXPECTED:  
+
+307.ACTUAL:    "     super_: "
+307.EXPECTED:  
+
+308.ACTUAL:    "      { [Function: Readable]"
+308.EXPECTED:  
+
+309.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+309.EXPECTED:  
+
+310.ACTUAL:    "        super_: [Object],"
+310.EXPECTED:  
+
+311.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+311.EXPECTED:  
+
+312.ACTUAL:    "  super_: "
+312.EXPECTED:  
+
+313.ACTUAL:    "   { [Function: Duplex]"
+313.EXPECTED:  
+
+314.ACTUAL:    "     super_: "
+314.EXPECTED:  
+
+315.ACTUAL:    "      { [Function: Readable]"
+315.EXPECTED:  
+
+316.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+316.EXPECTED:  
+
+317.ACTUAL:    "        super_: [Object],"
+317.EXPECTED:  
+
+318.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+318.EXPECTED:  
+
+319.ACTUAL:    "  super_: "
+319.EXPECTED:  
+
+320.ACTUAL:    "   { [Function: Duplex]"
+320.EXPECTED:  
+
+321.ACTUAL:    "     super_: "
+321.EXPECTED:  
+
+322.ACTUAL:    "      { [Function: Readable]"
+322.EXPECTED:  
+
+323.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+323.EXPECTED:  
+
+324.ACTUAL:    "        super_: [Object],"
+324.EXPECTED:  
+
+325.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+325.EXPECTED:  
+
+326.ACTUAL:    "  super_: "
+326.EXPECTED:  
+
+327.ACTUAL:    "   { [Function: Duplex]"
+327.EXPECTED:  
+
+328.ACTUAL:    "     super_: "
+328.EXPECTED:  
+
+329.ACTUAL:    "      { [Function: Readable]"
+329.EXPECTED:  
+
+330.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+330.EXPECTED:  
+
+331.ACTUAL:    "        super_: [Object],"
+331.EXPECTED:  
+
+332.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+332.EXPECTED:  
+
+333.ACTUAL:    "  super_: "
+333.EXPECTED:  
+
+334.ACTUAL:    "   { [Function: Duplex]"
+334.EXPECTED:  
+
+335.ACTUAL:    "     super_: "
+335.EXPECTED:  
+
+336.ACTUAL:    "      { [Function: Readable]"
+336.EXPECTED:  
+
+337.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+337.EXPECTED:  
+
+338.ACTUAL:    "        super_: [Object],"
+338.EXPECTED:  
+
+339.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+339.EXPECTED:  
+
+340.ACTUAL:    "  super_: "
+340.EXPECTED:  
+
+341.ACTUAL:    "   { [Function: Duplex]"
+341.EXPECTED:  
+
+342.ACTUAL:    "     super_: "
+342.EXPECTED:  
+
+343.ACTUAL:    "      { [Function: Readable]"
+343.EXPECTED:  
+
+344.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+344.EXPECTED:  
+
+345.ACTUAL:    "        super_: [Object],"
+345.EXPECTED:  
+
+346.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+346.EXPECTED:  
+
+347.ACTUAL:    "  super_: "
+347.EXPECTED:  
+
+348.ACTUAL:    "   { [Function: Duplex]"
+348.EXPECTED:  
+
+349.ACTUAL:    "     super_: "
+349.EXPECTED:  
+
+350.ACTUAL:    "      { [Function: Readable]"
+350.EXPECTED:  
+
+351.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+351.EXPECTED:  
+
+352.ACTUAL:    "        super_: [Object],"
+352.EXPECTED:  
+
+353.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+353.EXPECTED:  
+
+354.ACTUAL:    "  super_: "
+354.EXPECTED:  
+
+355.ACTUAL:    "   { [Function: Duplex]"
+355.EXPECTED:  
+
+356.ACTUAL:    "     super_: "
+356.EXPECTED:  
+
+357.ACTUAL:    "      { [Function: Readable]"
+357.EXPECTED:  
+
+358.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+358.EXPECTED:  
+
+359.ACTUAL:    "        super_: [Object],"
+359.EXPECTED:  
+
+360.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+360.EXPECTED:  
+
+361.ACTUAL:    "  super_: "
+361.EXPECTED:  
+
+362.ACTUAL:    "   { [Function: Duplex]"
+362.EXPECTED:  
+
+363.ACTUAL:    "     super_: "
+363.EXPECTED:  
+
+364.ACTUAL:    "      { [Function: Readable]"
+364.EXPECTED:  
+
+365.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+365.EXPECTED:  
+
+366.ACTUAL:    "        super_: [Object],"
+366.EXPECTED:  
+
+367.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+367.EXPECTED:  
+
+368.ACTUAL:    "  super_: "
+368.EXPECTED:  
+
+369.ACTUAL:    "   { [Function: Duplex]"
+369.EXPECTED:  
+
+370.ACTUAL:    "     super_: "
+370.EXPECTED:  
+
+371.ACTUAL:    "      { [Function: Readable]"
+371.EXPECTED:  
+
+372.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+372.EXPECTED:  
+
+373.ACTUAL:    "        super_: [Object],"
+373.EXPECTED:  
+
+374.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+374.EXPECTED:  
+
+375.ACTUAL:    "  super_: "
+375.EXPECTED:  
+
+376.ACTUAL:    "   { [Function: Duplex]"
+376.EXPECTED:  
+
+377.ACTUAL:    "     super_: "
+377.EXPECTED:  
+
+378.ACTUAL:    "      { [Function: Readable]"
+378.EXPECTED:  
+
+379.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+379.EXPECTED:  
+
+380.ACTUAL:    "        super_: [Object],"
+380.EXPECTED:  
+
+381.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+381.EXPECTED:  
+
+382.ACTUAL:    "  super_: "
+382.EXPECTED:  
+
+383.ACTUAL:    "   { [Function: Duplex]"
+383.EXPECTED:  
+
+384.ACTUAL:    "     super_: "
+384.EXPECTED:  
+
+385.ACTUAL:    "      { [Function: Readable]"
+385.EXPECTED:  
+
+386.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+386.EXPECTED:  
+
+387.ACTUAL:    "        super_: [Object],"
+387.EXPECTED:  
+
+388.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+388.EXPECTED:  
+
+389.ACTUAL:    "  super_: "
+389.EXPECTED:  
+
+390.ACTUAL:    "   { [Function: Duplex]"
+390.EXPECTED:  
+
+391.ACTUAL:    "     super_: "
+391.EXPECTED:  
+
+392.ACTUAL:    "      { [Function: Readable]"
+392.EXPECTED:  
+
+393.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+393.EXPECTED:  
+
+394.ACTUAL:    "        super_: [Object],"
+394.EXPECTED:  
+
+395.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+395.EXPECTED:  
+
+396.ACTUAL:    "  super_: "
+396.EXPECTED:  
+
+397.ACTUAL:    "   { [Function: Duplex]"
+397.EXPECTED:  
+
+398.ACTUAL:    "     super_: "
+398.EXPECTED:  
+
+399.ACTUAL:    "      { [Function: Readable]"
+399.EXPECTED:  
+
+400.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+400.EXPECTED:  
+
+401.ACTUAL:    "        super_: [Object],"
+401.EXPECTED:  
+
+402.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+402.EXPECTED:  
+
+403.ACTUAL:    "  super_: "
+403.EXPECTED:  
+
+404.ACTUAL:    "   { [Function: Duplex]"
+404.EXPECTED:  
+
+405.ACTUAL:    "     super_: "
+405.EXPECTED:  
+
+406.ACTUAL:    "      { [Function: Readable]"
+406.EXPECTED:  
+
+407.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+407.EXPECTED:  
+
+408.ACTUAL:    "        super_: [Object],"
+408.EXPECTED:  
+
+409.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+409.EXPECTED:  
+
+410.ACTUAL:    "  super_: "
+410.EXPECTED:  
+
+411.ACTUAL:    "   { [Function: Duplex]"
+411.EXPECTED:  
+
+412.ACTUAL:    "     super_: "
+412.EXPECTED:  
+
+413.ACTUAL:    "      { [Function: Readable]"
+413.EXPECTED:  
+
+414.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+414.EXPECTED:  
+
+415.ACTUAL:    "        super_: [Object],"
+415.EXPECTED:  
+
+416.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+416.EXPECTED:  
+
+417.ACTUAL:    "  super_: "
+417.EXPECTED:  
+
+418.ACTUAL:    "   { [Function: Duplex]"
+418.EXPECTED:  
+
+419.ACTUAL:    "     super_: "
+419.EXPECTED:  
+
+420.ACTUAL:    "      { [Function: Readable]"
+420.EXPECTED:  
+
+421.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+421.EXPECTED:  
+
+422.ACTUAL:    "        super_: [Object],"
+422.EXPECTED:  
+
+423.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+423.EXPECTED:  
+
+424.ACTUAL:    "  super_: "
+424.EXPECTED:  
+
+425.ACTUAL:    "   { [Function: Duplex]"
+425.EXPECTED:  
+
+426.ACTUAL:    "     super_: "
+426.EXPECTED:  
+
+427.ACTUAL:    "      { [Function: Readable]"
+427.EXPECTED:  
+
+428.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+428.EXPECTED:  
+
+429.ACTUAL:    "        super_: [Object],"
+429.EXPECTED:  
+
+430.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+430.EXPECTED:  
+
+431.ACTUAL:    "  super_: "
+431.EXPECTED:  
+
+432.ACTUAL:    "   { [Function: Duplex]"
+432.EXPECTED:  
+
+433.ACTUAL:    "     super_: "
+433.EXPECTED:  
+
+434.ACTUAL:    "      { [Function: Readable]"
+434.EXPECTED:  
+
+435.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+435.EXPECTED:  
+
+436.ACTUAL:    "        super_: [Object],"
+436.EXPECTED:  
+
+437.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+437.EXPECTED:  
+
+438.ACTUAL:    "  super_: "
+438.EXPECTED:  
+
+439.ACTUAL:    "   { [Function: Duplex]"
+439.EXPECTED:  
+
+440.ACTUAL:    "     super_: "
+440.EXPECTED:  
+
+441.ACTUAL:    "      { [Function: Readable]"
+441.EXPECTED:  
+
+442.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+442.EXPECTED:  
+
+443.ACTUAL:    "        super_: [Object],"
+443.EXPECTED:  
+
+444.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+444.EXPECTED:  
+
+445.ACTUAL:    "  super_: "
+445.EXPECTED:  
+
+446.ACTUAL:    "   { [Function: Duplex]"
+446.EXPECTED:  
+
+447.ACTUAL:    "     super_: "
+447.EXPECTED:  
+
+448.ACTUAL:    "      { [Function: Readable]"
+448.EXPECTED:  
+
+449.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+449.EXPECTED:  
+
+450.ACTUAL:    "        super_: [Object],"
+450.EXPECTED:  
+
+451.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+451.EXPECTED:  
+
+452.ACTUAL:    "  super_: "
+452.EXPECTED:  
+
+453.ACTUAL:    "   { [Function: Duplex]"
+453.EXPECTED:  
+
+454.ACTUAL:    "     super_: "
+454.EXPECTED:  
+
+455.ACTUAL:    "      { [Function: Readable]"
+455.EXPECTED:  
+
+456.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+456.EXPECTED:  
+
+457.ACTUAL:    "        super_: [Object],"
+457.EXPECTED:  
+
+458.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+458.EXPECTED:  
+
+459.ACTUAL:    "  super_: "
+459.EXPECTED:  
+
+460.ACTUAL:    "   { [Function: Duplex]"
+460.EXPECTED:  
+
+461.ACTUAL:    "     super_: "
+461.EXPECTED:  
+
+462.ACTUAL:    "      { [Function: Readable]"
+462.EXPECTED:  
+
+463.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+463.EXPECTED:  
+
+464.ACTUAL:    "        super_: [Object],"
+464.EXPECTED:  
+
+465.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+465.EXPECTED:  
+
+466.ACTUAL:    "  super_: "
+466.EXPECTED:  
+
+467.ACTUAL:    "   { [Function: Duplex]"
+467.EXPECTED:  
+
+468.ACTUAL:    "     super_: "
+468.EXPECTED:  
+
+469.ACTUAL:    "      { [Function: Readable]"
+469.EXPECTED:  
+
+470.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+470.EXPECTED:  
+
+471.ACTUAL:    "        super_: [Object],"
+471.EXPECTED:  
+
+472.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+472.EXPECTED:  
+
+473.ACTUAL:    "  super_: "
+473.EXPECTED:  
+
+474.ACTUAL:    "   { [Function: Duplex]"
+474.EXPECTED:  
+
+475.ACTUAL:    "     super_: "
+475.EXPECTED:  
+
+476.ACTUAL:    "      { [Function: Readable]"
+476.EXPECTED:  
+
+477.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+477.EXPECTED:  
+
+478.ACTUAL:    "        super_: [Object],"
+478.EXPECTED:  
+
+479.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+479.EXPECTED:  
+
+480.ACTUAL:    "  super_: "
+480.EXPECTED:  
+
+481.ACTUAL:    "   { [Function: Duplex]"
+481.EXPECTED:  
+
+482.ACTUAL:    "     super_: "
+482.EXPECTED:  
+
+483.ACTUAL:    "      { [Function: Readable]"
+483.EXPECTED:  
+
+484.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+484.EXPECTED:  
+
+485.ACTUAL:    "        super_: [Object],"
+485.EXPECTED:  
+
+486.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+486.EXPECTED:  
+
+487.ACTUAL:    "  super_: "
+487.EXPECTED:  
+
+488.ACTUAL:    "   { [Function: Duplex]"
+488.EXPECTED:  
+
+489.ACTUAL:    "     super_: "
+489.EXPECTED:  
+
+490.ACTUAL:    "      { [Function: Readable]"
+490.EXPECTED:  
+
+491.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+491.EXPECTED:  
+
+492.ACTUAL:    "        super_: [Object],"
+492.EXPECTED:  
+
+493.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+493.EXPECTED:  
+
+494.ACTUAL:    "  super_: "
+494.EXPECTED:  
+
+495.ACTUAL:    "   { [Function: Duplex]"
+495.EXPECTED:  
+
+496.ACTUAL:    "     super_: "
+496.EXPECTED:  
+
+497.ACTUAL:    "      { [Function: Readable]"
+497.EXPECTED:  
+
+498.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+498.EXPECTED:  
+
+499.ACTUAL:    "        super_: [Object],"
+499.EXPECTED:  
+
+500.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+500.EXPECTED:  
+
+501.ACTUAL:    "  super_: "
+501.EXPECTED:  
+
+502.ACTUAL:    "   { [Function: Duplex]"
+502.EXPECTED:  
+
+503.ACTUAL:    "     super_: "
+503.EXPECTED:  
+
+504.ACTUAL:    "      { [Function: Readable]"
+504.EXPECTED:  
+
+505.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+505.EXPECTED:  
+
+506.ACTUAL:    "        super_: [Object],"
+506.EXPECTED:  
+
+507.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+507.EXPECTED:  
+
+508.ACTUAL:    "  super_: "
+508.EXPECTED:  
+
+509.ACTUAL:    "   { [Function: Duplex]"
+509.EXPECTED:  
+
+510.ACTUAL:    "     super_: "
+510.EXPECTED:  
+
+511.ACTUAL:    "      { [Function: Readable]"
+511.EXPECTED:  
+
+512.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+512.EXPECTED:  
+
+513.ACTUAL:    "        super_: [Object],"
+513.EXPECTED:  
+
+514.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+514.EXPECTED:  
+
+515.ACTUAL:    "  super_: "
+515.EXPECTED:  
+
+516.ACTUAL:    "   { [Function: Duplex]"
+516.EXPECTED:  
+
+517.ACTUAL:    "     super_: "
+517.EXPECTED:  
+
+518.ACTUAL:    "      { [Function: Readable]"
+518.EXPECTED:  
+
+519.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+519.EXPECTED:  
+
+520.ACTUAL:    "        super_: [Object],"
+520.EXPECTED:  
+
+521.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+521.EXPECTED:  
+
+522.ACTUAL:    "  super_: "
+522.EXPECTED:  
+
+523.ACTUAL:    "   { [Function: Duplex]"
+523.EXPECTED:  
+
+524.ACTUAL:    "     super_: "
+524.EXPECTED:  
+
+525.ACTUAL:    "      { [Function: Readable]"
+525.EXPECTED:  
+
+526.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+526.EXPECTED:  
+
+527.ACTUAL:    "        super_: [Object],"
+527.EXPECTED:  
+
+528.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+528.EXPECTED:  
+
+529.ACTUAL:    "  super_: "
+529.EXPECTED:  
+
+530.ACTUAL:    "   { [Function: Duplex]"
+530.EXPECTED:  
+
+531.ACTUAL:    "     super_: "
+531.EXPECTED:  
+
+532.ACTUAL:    "      { [Function: Readable]"
+532.EXPECTED:  
+
+533.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+533.EXPECTED:  
+
+534.ACTUAL:    "        super_: [Object],"
+534.EXPECTED:  
+
+535.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+535.EXPECTED:  
+
+536.ACTUAL:    "  super_: "
+536.EXPECTED:  
+
+537.ACTUAL:    "   { [Function: Duplex]"
+537.EXPECTED:  
+
+538.ACTUAL:    "     super_: "
+538.EXPECTED:  
+
+539.ACTUAL:    "      { [Function: Readable]"
+539.EXPECTED:  
+
+540.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+540.EXPECTED:  
+
+541.ACTUAL:    "        super_: [Object],"
+541.EXPECTED:  
+
+542.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+542.EXPECTED:  
+
+543.ACTUAL:    "  super_: "
+543.EXPECTED:  
+
+544.ACTUAL:    "   { [Function: Duplex]"
+544.EXPECTED:  
+
+545.ACTUAL:    "     super_: "
+545.EXPECTED:  
+
+546.ACTUAL:    "      { [Function: Readable]"
+546.EXPECTED:  
+
+547.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+547.EXPECTED:  
+
+548.ACTUAL:    "        super_: [Object],"
+548.EXPECTED:  
+
+549.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+549.EXPECTED:  
+
+550.ACTUAL:    "  super_: "
+550.EXPECTED:  
+
+551.ACTUAL:    "   { [Function: Duplex]"
+551.EXPECTED:  
+
+552.ACTUAL:    "     super_: "
+552.EXPECTED:  
+
+553.ACTUAL:    "      { [Function: Readable]"
+553.EXPECTED:  
+
+554.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+554.EXPECTED:  
+
+555.ACTUAL:    "        super_: [Object],"
+555.EXPECTED:  
+
+556.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+556.EXPECTED:  
+
+557.ACTUAL:    "  super_: "
+557.EXPECTED:  
+
+558.ACTUAL:    "   { [Function: Duplex]"
+558.EXPECTED:  
+
+559.ACTUAL:    "     super_: "
+559.EXPECTED:  
+
+560.ACTUAL:    "      { [Function: Readable]"
+560.EXPECTED:  
+
+561.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+561.EXPECTED:  
+
+562.ACTUAL:    "        super_: [Object],"
+562.EXPECTED:  
+
+563.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+563.EXPECTED:  
+
+564.ACTUAL:    "  super_: "
+564.EXPECTED:  
+
+565.ACTUAL:    "   { [Function: Duplex]"
+565.EXPECTED:  
+
+566.ACTUAL:    "     super_: "
+566.EXPECTED:  
+
+567.ACTUAL:    "      { [Function: Readable]"
+567.EXPECTED:  
+
+568.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+568.EXPECTED:  
+
+569.ACTUAL:    "        super_: [Object],"
+569.EXPECTED:  
+
+570.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+570.EXPECTED:  
+
+571.ACTUAL:    "  super_: "
+571.EXPECTED:  
+
+572.ACTUAL:    "   { [Function: Duplex]"
+572.EXPECTED:  
+
+573.ACTUAL:    "     super_: "
+573.EXPECTED:  
+
+574.ACTUAL:    "      { [Function: Readable]"
+574.EXPECTED:  
+
+575.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+575.EXPECTED:  
+
+576.ACTUAL:    "        super_: [Object],"
+576.EXPECTED:  
+
+577.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+577.EXPECTED:  
+
+578.ACTUAL:    "  super_: "
+578.EXPECTED:  
+
+579.ACTUAL:    "   { [Function: Duplex]"
+579.EXPECTED:  
+
+580.ACTUAL:    "     super_: "
+580.EXPECTED:  
+
+581.ACTUAL:    "      { [Function: Readable]"
+581.EXPECTED:  
+
+582.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+582.EXPECTED:  
+
+583.ACTUAL:    "        super_: [Object],"
+583.EXPECTED:  
+
+584.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+584.EXPECTED:  
+
+585.ACTUAL:    "  super_: "
+585.EXPECTED:  
+
+586.ACTUAL:    "   { [Function: Duplex]"
+586.EXPECTED:  
+
+587.ACTUAL:    "     super_: "
+587.EXPECTED:  
+
+588.ACTUAL:    "      { [Function: Readable]"
+588.EXPECTED:  
+
+589.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+589.EXPECTED:  
+
+590.ACTUAL:    "        super_: [Object],"
+590.EXPECTED:  
+
+591.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+591.EXPECTED:  
+
+592.ACTUAL:    "{ [Function: BufferList]"
+592.EXPECTED:  
+
+593.ACTUAL:    "  super_: "
+593.EXPECTED:  
+
+594.ACTUAL:    "   { [Function: Duplex]"
+594.EXPECTED:  
+
+595.ACTUAL:    "     super_: "
+595.EXPECTED:  
+
+596.ACTUAL:    "      { [Function: Readable]"
+596.EXPECTED:  
+
+597.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+597.EXPECTED:  
+
+598.ACTUAL:    "        super_: [Object],"
+598.EXPECTED:  
+
+599.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+599.EXPECTED:  
+
+600.ACTUAL:    "{ [Function: BufferList]"
+600.EXPECTED:  
+
+601.ACTUAL:    "  super_: "
+601.EXPECTED:  
+
+602.ACTUAL:    "   { [Function: Duplex]"
+602.EXPECTED:  
+
+603.ACTUAL:    "     super_: "
+603.EXPECTED:  
+
+604.ACTUAL:    "      { [Function: Readable]"
+604.EXPECTED:  
+
+605.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+605.EXPECTED:  
+
+606.ACTUAL:    "        super_: [Object],"
+606.EXPECTED:  
+
+607.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+607.EXPECTED:  
+
+608.ACTUAL:    "{ [Function: BufferList]"
+608.EXPECTED:  
+
+609.ACTUAL:    "  super_: "
+609.EXPECTED:  
+
+610.ACTUAL:    "   { [Function: Duplex]"
+610.EXPECTED:  
+
+611.ACTUAL:    "     super_: "
+611.EXPECTED:  
+
+612.ACTUAL:    "      { [Function: Readable]"
+612.EXPECTED:  
+
+613.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+613.EXPECTED:  
+
+614.ACTUAL:    "        super_: [Object],"
+614.EXPECTED:  
+
+615.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+615.EXPECTED:  
+
+616.ACTUAL:    "{ [Function: BufferList]"
+616.EXPECTED:  
+
+617.ACTUAL:    "  super_: "
+617.EXPECTED:  
+
+618.ACTUAL:    "   { [Function: Duplex]"
+618.EXPECTED:  
+
+619.ACTUAL:    "     super_: "
+619.EXPECTED:  
+
+620.ACTUAL:    "      { [Function: Readable]"
+620.EXPECTED:  
+
+621.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+621.EXPECTED:  
+
+622.ACTUAL:    "        super_: [Object],"
+622.EXPECTED:  
+
+623.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+623.EXPECTED:  
+
+624.ACTUAL:    "{ [Function: BufferList]"
+624.EXPECTED:  
+
+625.ACTUAL:    "  super_: "
+625.EXPECTED:  
+
+626.ACTUAL:    "   { [Function: Duplex]"
+626.EXPECTED:  
+
+627.ACTUAL:    "     super_: "
+627.EXPECTED:  
+
+628.ACTUAL:    "      { [Function: Readable]"
+628.EXPECTED:  
+
+629.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+629.EXPECTED:  
+
+630.ACTUAL:    "        super_: [Object],"
+630.EXPECTED:  
+
+631.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+631.EXPECTED:  
+
+632.ACTUAL:    "{ [Function: BufferList]"
+632.EXPECTED:  
+
+633.ACTUAL:    "  super_: "
+633.EXPECTED:  
+
+634.ACTUAL:    "   { [Function: Duplex]"
+634.EXPECTED:  
+
+635.ACTUAL:    "     super_: "
+635.EXPECTED:  
+
+636.ACTUAL:    "      { [Function: Readable]"
+636.EXPECTED:  
+
+637.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+637.EXPECTED:  
+
+638.ACTUAL:    "        super_: [Object],"
+638.EXPECTED:  
+
+639.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+639.EXPECTED:  
+
+640.ACTUAL:    "{ [Function: BufferList]"
+640.EXPECTED:  
+
+641.ACTUAL:    "  super_: "
+641.EXPECTED:  
+
+642.ACTUAL:    "   { [Function: Duplex]"
+642.EXPECTED:  
+
+643.ACTUAL:    "     super_: "
+643.EXPECTED:  
+
+644.ACTUAL:    "      { [Function: Readable]"
+644.EXPECTED:  
+
+645.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+645.EXPECTED:  
+
+646.ACTUAL:    "        super_: [Object],"
+646.EXPECTED:  
+
+647.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+647.EXPECTED:  
+
+648.ACTUAL:    "{ [Function: BufferList]"
+648.EXPECTED:  
+
+649.ACTUAL:    "  super_: "
+649.EXPECTED:  
+
+650.ACTUAL:    "   { [Function: Duplex]"
+650.EXPECTED:  
+
+651.ACTUAL:    "     super_: "
+651.EXPECTED:  
+
+652.ACTUAL:    "      { [Function: Readable]"
+652.EXPECTED:  
+
+653.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+653.EXPECTED:  
+
+654.ACTUAL:    "        super_: [Object],"
+654.EXPECTED:  
+
+655.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+655.EXPECTED:  
+
+656.ACTUAL:    "{ [Function: BufferList]"
+656.EXPECTED:  
+
+657.ACTUAL:    "  super_: "
+657.EXPECTED:  
+
+658.ACTUAL:    "   { [Function: Duplex]"
+658.EXPECTED:  
+
+659.ACTUAL:    "     super_: "
+659.EXPECTED:  
+
+660.ACTUAL:    "      { [Function: Readable]"
+660.EXPECTED:  
+
+661.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+661.EXPECTED:  
+
+662.ACTUAL:    "        super_: [Object],"
+662.EXPECTED:  
+
+663.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+663.EXPECTED:  
+
+664.ACTUAL:    "{ [Function: BufferList]"
+664.EXPECTED:  
+
+665.ACTUAL:    "  super_: "
+665.EXPECTED:  
+
+666.ACTUAL:    "   { [Function: Duplex]"
+666.EXPECTED:  
+
+667.ACTUAL:    "     super_: "
+667.EXPECTED:  
+
+668.ACTUAL:    "      { [Function: Readable]"
+668.EXPECTED:  
+
+669.ACTUAL:    "        ReadableState: [Function: ReadableState],"
+669.EXPECTED:  
+
+670.ACTUAL:    "        super_: [Object],"
+670.EXPECTED:  
+
+671.ACTUAL:    "        _fromList: [Function: fromList] } } }"
+671.EXPECTED:  
+
+672.ACTUAL:    ""
+672.EXPECTED:  
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+  ✗ Submission results did not match expected!  
+   
+       
+     # FAIL  
+     Your solution to HTTP COLLECT didn't pass. Try again!  
+   
