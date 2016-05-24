@@ -21,7 +21,7 @@ var server = http.createServer(function(request,response){
 			response.write(JSON.stringify({"hour":hour,"minute":minutes,"second":seconds}))
 			//response.write("\n data procesata :"+hour+", "+minutes+", "+seconds)			
 		} else if(url.parse(request.url).pathname=='/api/unixtime'){			
-			var unixtime = Math.floor(new Date(dataRAW.iso)/1000)
+			var unixtime = Math.floor(new Date(dataRAW.iso))
 			//response.write("\n Hello nurse! :"+url.parse(request.url).pathname+"; avem:"+data.iso)
 			response.write(JSON.stringify({"unixtime":unixtime}))			
 		}	
